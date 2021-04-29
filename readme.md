@@ -1,6 +1,6 @@
 ## 2. Port and protocols
 
-![Port là gì và ứng dụng của port trong hệ thống mạng | Viettelco](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/List-port.jpg)
+![Port là gì và ứng dụng của port trong hệ thống mạng | Viettelco](List-port.jpg)
 
 ### 3. Install and Lab Setup
 
@@ -282,50 +282,50 @@ image-20210427152409439.png)
 
 
 
-![image-20210427152610639](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152610639.png)
+![image-20210427152610639](image-20210427152610639.png)
 
 
 
 
 
-![image-20210427152645076](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152645076.png)
+![image-20210427152645076](image-20210427152645076.png)
 
 
 
-![image-20210427152733810](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152733810.png)
+![image-20210427152733810](image-20210427152733810.png)
 
 
 
-![image-20210427152802014](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152802014.png)
+![image-20210427152802014](image-20210427152802014.png)
 
-![image-20210427152837998](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152837998.png)
+![image-20210427152837998](image-20210427152837998.png)
 
 
 
 ### 12. Nmap for Reconnaisance
 
-![image-20210427153058426](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153058426.png)
+![image-20210427153058426](image-20210427153058426.png)
 
 
 
-![image-20210427153157833](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153157833.png)
+![image-20210427153157833](image-20210427153157833.png)
 
 
 
-![image-20210427153310712](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153310712.png)
+![image-20210427153310712](image-20210427153310712.png)
 
-![image-20210427153325527](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153325527.png)
+![image-20210427153325527](image-20210427153325527.png)
 
-![image-20210427153402356](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153402356.png)
-
-
-
-![image-20210427153423964](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153423964.png)![image-20210427153523790](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153523790.png)
+![image-20210427153402356](image-20210427153402356.png)
 
 
 
-![image-20210427153549187](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153549187.png)
+![image-20210427153423964](image-20210427153423964.png)![image-20210427153523790](image-20210427153523790.png)
 
-![image-20210427153912546](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427153912546.png)	
+
+
+![image-20210427153549187](image-20210427153549187.png)
+
+![image-20210427153912546](image-20210427153912546.png)	
 
 ### 13. Mail Exploitation

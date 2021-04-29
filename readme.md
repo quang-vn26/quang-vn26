@@ -6,7 +6,7 @@
 
 ### 4. Nmap Scan and Techniques
 
-![image-20210427114248692](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427114248692.png)
+![image-20210427114248692](/image-20210427114248692.png)
 
 ### 5. Nmap Target Selection and Techniques
 
@@ -228,15 +228,15 @@ THỜI GIAN VÀ HIỆU SUẤT:
 
 #### Name Scan 
 
-![image-20210427120910170](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427120910170.png)
+![image-20210427120910170](/image-20210427120910170.png)
 
 #### Port Scan
 
-![image-20210427121049091](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427121049091.png)
+![image-20210427121049091](/image-20210427121049091.png)
 
 #### Summary
 
-![image-20210427121159987](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427121159987.png)
+![image-20210427121159987](/image-20210427121159987.png)
 
 ### 7. Nmap Service Detection
 
@@ -261,21 +261,22 @@ Nomal: nmap scanme.nmap.org -p- -v -oN normaloutput.txt
 
 help: nmap 127.0.0.1 --script-help=http-methods
 
-![image-20210427151755126](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427151755126.png)
+![image-20210427151755126](/image-20210427151755126.png)
 
 ### 11. Nmap Script Attacks Categories
 
-![image-20210427152036495](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152036495.png)
+![image-20210427152036495](/image-20210427152036495.png)
 
-![image-20210427152140270](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152140270.png)
-
-
-
-![image-20210427152216303](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152216303.png)
+![image-20210427152140270](/image-20210427152140270.png)
 
 
 
-![image-20210427152409439](/home/quangg/Downloads/khóa hoc/NSTH-Ethical.Hacking.Network.Security.Pentesting.Nmap/image-20210427152409439.png)
+![image-20210427152216303](/image-20210427152216303.png)
+
+
+
+![image-20210427152409439](/
+image-20210427152409439.png)
 
 
 

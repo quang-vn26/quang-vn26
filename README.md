@@ -12,7 +12,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help, gmail: nnquang.code@gmail.com;
 - 📫 How to reach me: [@quangnguyen](https://www.facebook.com/quang.nguyenn23/);
-- 📝  [Resume]: [Resume](https://drive.google.com/)
+- 📝 Resume: [Resume](https://drive.google.com/)
 
 **Languages and Tools:**  
 

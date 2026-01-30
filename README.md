@@ -10,9 +10,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help,gmail: nnquang.code@gmail.com;
+- 💬 Ask me about anything, I am happy to help, gmail: nnquang.code@gmail.com;
 - 📫 How to reach me: [@quangnguyen](https://www.facebook.com/quang.nguyenn23/);
-- 📝 [Resume](https://drive.google.com/)
+- 📝  [Resume]: [Resume](https://drive.google.com/)
 
 **Languages and Tools:**  
 
